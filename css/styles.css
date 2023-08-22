@@ -3,3 +3,15 @@ body
     background-color: #000000;
     color: #228822;
 }
+
+#frame-main
+{
+    height: 80vh;
+    width: 100%;
+}
+
+#frame-code
+{
+    height: 70vh;
+    width: 100%;
+}
